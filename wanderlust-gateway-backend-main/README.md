@@ -25,4 +25,5 @@ This project is built with:
 
 ## Contributors
 
-- Shashank
+- Shashank M Y
+- Shankar R D
